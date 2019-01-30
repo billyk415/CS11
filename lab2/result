@@ -1,0 +1,21 @@
+/afs/cats.ucsc.edu/users/b/bqkwong/cs11/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidwk
+  system:authuser rlid
+  system:anyuser rl
+  bqkwong rlidwka
+
+Access list for private is
+Normal rights:
+  bqkwong rlidwka
+
+total 7
+-rw-r--r--. 1 bqkwong users  426 Apr 16 20:27 HelloWorld.class
+drwxr-xr-x. 2 bqkwong users 2048 Apr 16 19:55 private
+-rwxr--r--. 1 bqkwong users  193 Apr 16 20:36 prog
+drwxr-xr-x. 2 bqkwong users 2048 Apr 16 19:55 public
+-rw-r--r--. 1 bqkwong users  235 Apr 16 20:38 result
+
+Hello, lab2!

@@ -1,0 +1,14 @@
+errors
+Billy Kwong
+bqkwong
+lab6
+Errors for LetterHome.class
+
+Errors: 
+1) For (3 3), the output says "I plan to come home for a visit last weekend." "last weekend" should be change to some time in the future.
+
+2) For (4 #), the output prints out "books" but it should be singular: "book" 
+
+3) For (4), money is printed out regardless if it is negative or zero. This should be changed to limit out negatives and zero.
+
+4) For (2 4), it prints out "The weather here has been hot" when "hot" should be "cold". 

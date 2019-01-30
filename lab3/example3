@@ -1,0 +1,9 @@
+#! /bin/bash
+#--------------------------------------
+# example3
+#--------------------------------------
+ls -l
+example1.txt > junk-out
+example2 >> junk-out
+javac example1.txt >& comp-errs
+
